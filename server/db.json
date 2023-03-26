@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "email": "habibulmursaleen97@gmail.com",
+      "password": "$2a$10$W74br8jNg7Yd0czrGqxeBucWrlWUyC5iBJ9q6m0M.5NFSb0ZExlNG",
+      "name": "S M Habibul Mursaleen Chowdhury",
+      "id": 27
+    },
+    {
+      "email": "sherlock@gmail.com",
+      "password": "$2a$10$psfrhi72TYb7Ll5YhHBBrOn2uCDSJ681lqCE5m9Ln9nDp4I5JpF4y",
+      "name": "Sherlock Holmes",
+      "id": 28
+    }
+  ],
+  "conversations": [
+    {
+      "conversationId": 21,
+      "sender": {
+        "email": "sherlock@gmail.com",
+        "name": "Sherlock Holmes",
+        "id": 28
+      },
+      "receiver": {
+        "email": "habibulmursaleen97@gmail.com",
+        "password": "$2a$10$W74br8jNg7Yd0czrGqxeBucWrlWUyC5iBJ9q6m0M.5NFSb0ZExlNG",
+        "name": "S M Habibul Mursaleen Chowdhury",
+        "id": 27
+      },
+      "message": "Hi",
+      "timestamp": 1679871794054,
+      "id": 50
+    },
+    {
+      "conversationId": 21,
+      "sender": {
+        "email": "habibulmursaleen97@gmail.com",
+        "name": "S M Habibul Mursaleen Chowdhury",
+        "id": 27
+      },
+      "receiver": {
+        "email": "sherlock@gmail.com",
+        "name": "Sherlock Holmes",
+        "id": 28
+      },
+      "message": "hello",
+      "timestamp": 1679871863936,
+      "id": 51
+    },
+    {
+      "conversationId": 21,
+      "sender": {
+        "email": "habibulmursaleen97@gmail.com",
+        "name": "S M Habibul Mursaleen Chowdhury",
+        "id": 27
+      },
+      "receiver": {
+        "email": "sherlock@gmail.com",
+        "password": "$2a$10$psfrhi72TYb7Ll5YhHBBrOn2uCDSJ681lqCE5m9Ln9nDp4I5JpF4y",
+        "name": "Sherlock Holmes",
+        "id": 28
+      },
+      "message": "good",
+      "timestamp": 1679871890136,
+      "id": 52
+    }
+  ]
+}
